@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @chaoticprescriptions
-- 👀 I’m interested in ...hacking 
+- 👀 I’m interested in web development  
 - 🌱 I’m currently learning ...python 3
-- 💞️ I’m looking to collaborate on ...hacking projects
+- 💞️ I’m looking to collaborate on web dev gigs 
 - 📫 How to reach me ...+23409128130579 or abiogbonna@gmail.com
 
 <!---
